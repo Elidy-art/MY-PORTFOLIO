@@ -24,13 +24,20 @@ To explore or edit this project:
 3. Open index.html in your browser to view the site.
 
    Author
-   Elidy Njoki Muriithi
+
+    Elidy Njoki Muriithi
+
    Email: elidynjokimuriithi
+
    Full Stack Developer in training.
-   Passionate about code, strategy and design.
+
+    Passionate about code, strategy and design.
 
   Submission Checklist
+
 Portfolio website complete
+
 Pushed to GitHub
+
 README updated with project details
 

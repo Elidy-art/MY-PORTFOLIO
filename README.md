@@ -3,17 +3,27 @@ Elidy Njoki’s Portfolio
 Welcome to my personal portfolio website! This site showcases who I am, what I do, and what I love—including tech, strategy, and a touch of chess.
 
  Sections Included
+
 Header: With a stylish chessboard background
+
 About Me: A short intro about my background and journey into tech
+
 Skills: Frontend, Backend, Full-Stack Development, and Strategic Management
+
 Projects: Highlighting some of my work and what I’ve built
+
 Interests: Including Chess, Tech, and Creative Design
+
 Footer: A chess-themed footer with a unique touch
 
 Technologies Used
+
 HTML5
+
 CSS3
+
 Google Fonts (Cinzel)
+
 Responsive Design Techniques
 (No frameworks—pure creativity and code!)
 

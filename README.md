@@ -1,4 +1,5 @@
 Elidy Njoki’s Portfolio
+
 Welcome to my personal portfolio website! This site showcases who I am, what I do, and what I love—including tech, strategy, and a touch of chess.
 
  Sections Included
@@ -18,7 +19,7 @@ Responsive Design Techniques
 
 How to Use
 To explore or edit this project:
-1. Clone the repo:
+1. Clone the repo: git clone https://github.com/Elidy-art/MY-PORTFOLIO.git
 2. Open in VS Code or your preferred editor.
 3. Open index.html in your browser to view the site.
 

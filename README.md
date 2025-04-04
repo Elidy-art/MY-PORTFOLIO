@@ -16,6 +16,25 @@ Interests: Including Chess, Tech, and Creative Design
 
 Footer: A chess-themed footer with a unique touch
 
+
+ Chess Pieces & Their Symbolism in My Portfolio
+ 
+Chess Piece	Section	Symbolism
+
+King- Introduction section - The heart of the board—just like this section introduces who I am. Everything revolves around it.
+
+Pawn- About Me Section-  The humble beginning and the opening move—the foundation of who I am and where my journey starts.
+
+Knight- Education Section-	Unique movement—this section reflects my educational journey, full of twists and valuable learning.
+
+Rook- Programming Languages and Tools Section- Solid and dependable—my technical skills that form the backbone of my work.
+
+Bishop- Interests Section- Diagonal thinkers—symbolizing creativity and the unconventional passions that influence my work.
+
+Queen- Projects Section- Powerful and versatile—showcasing the range of projects that demonstrate my skills and creativity.
+
+Checkmate- Contact Section-	The final winning move—let’s connect and make something great happen!
+
 Technologies Used
 
 HTML5
